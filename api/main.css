@@ -1,0 +1,89 @@
+  @import url(https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|neon);
+.h2{
+    display: block;
+	width: 97%;
+	font-size: 1.125rem;
+	padding: 1rem 1.5rem;
+
+	font-weight: 700;
+	text-transform: uppercase;
+    text-align: center;
+	box-sizing: border-box;
+	box-shadow: rgb(26, 6, 6);
+	box-shadow: var(--personal-glow);
+	border-radius: 0.5rem;
+	cursor: pointer;
+	transition: 0.2s ease-out;
+    
+    
+}
+body {
+	padding: 10px;
+    margin: 0;
+
+    font-family: sans-serif;
+	background-color: honeydew;
+	
+	
+	
+
+}
+
+.app2{
+
+	font-family: 'Roboto', sans-serif;
+}
+
+.app{
+
+	float: left;
+	width: 400px;
+	flex-wrap: flex;
+
+	font-family:roboto;
+	border-radius: 18px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 15px rgba(206, 29, 29, 0.9);
+	margin: 15px	;
+
+    font-family: sans-serif;
+	padding: 30px  ;
+
+	height: 300px;
+
+  border-radius: 25px;
+
+  font-family: roboto;
+
+  justify-content: center;
+  background-color: white
+	
+
+	
+	
+
+	
+    
+}
+
+.app:hover{
+	transform: scale(1.05);
+    box-shadow: 0 11px 14px rgb(0 0 0 / 25%), 0 8px 20px rgb(0 0 0 / 10%);
+	transition: 0.5s ease;
+}
+.app2{
+
+font-family: 'italic', sans-serif;
+
+}
+
+
+	.app4{
+
+		font-family: 'Italic', sans-serif;
+		}
+
+         
+
+
+
